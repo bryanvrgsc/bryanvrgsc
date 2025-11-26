@@ -3,7 +3,7 @@
 Software Developer | iOS, Flutter, Python, C, C++ | Apasionado por apps móviles
 
 
-¡Hola! Soy **Bryan Vargas**, Ingeniero en Sistemas y TI, apasionado por el desarrollo de software, análisis de datos y optimización de redes. Me especializo en **desarrollo iOS con SwiftUI**, **gestión de bases de datos**, **optimización de RF y redes móviles**, y proyectos de **Business Intelligence**.  
+¡Hola! Soy **Bryan Vargas**, Ingeniero en Sistemas y TI, apasionado por el desarrollo de software, análisis de datos y optimización de redes. Me especializo en **desarrollo iOS con SwiftUI**, **gestión de bases de datos**, **optimización de RF, redes móviles** y proyectos de **Business Intelligence**.  
 
 Actualmente, trabajo en proyectos que combinan desarrollo de aplicaciones, análisis de datos y diseño de sistemas escalables.
 
