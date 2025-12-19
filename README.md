@@ -1,10 +1,6 @@
 <p align="right">
-  <a href="https://github.com/bryanvrgsc/bryanvrgsc/blob/main/README.md">
-    <img src="https://img.shields.io/badge/lang-en-red.svg" alt="en" />
-  </a>
-  <a href="https://github.com/bryanvrgsc/bryanvrgsc/blob/main/README.es.md">
-    <img src="https://img.shields.io/badge/lang-es-yellow.svg" alt="es" />
-  </a>
+  <a href="README.md"><img src="https://img.shields.io/badge/English_🇺🇸-blue" alt="English" /></a>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/Español_🇲🇽-yellow" alt="Español" /></a>
 </p>
 
 <p align="center">
