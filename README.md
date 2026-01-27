@@ -131,6 +131,7 @@
 ![Caching](https://img.shields.io/badge/Caching_Strategies-brightgreen?style=flat-square)
 ![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-blueviolet?style=flat-square)
 ![Inference Optimization](https://img.shields.io/badge/Inference_Optimization-FF4F8B?style=flat-square)
+![Tensors](https://img.shields.io/badge/Tensors-FF6F00?style=flat-square)
 
 #### **Testing & Quality**
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-brightgreen?style=flat-square)
@@ -180,6 +181,8 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-8CAAE6?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Torchaudio](https://img.shields.io/badge/Torchaudio-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 #### **Operating Systems**
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
