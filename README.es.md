@@ -79,6 +79,7 @@
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-F0AD4E?style=flat-square&logo=moodle&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FD6F00?style=flat-square&logo=gradio&logoColor=white)
 
 #### **Backend, Cloud e Identidad**
 ![REST API](https://img.shields.io/badge/APIs_REST-blue?style=flat-square)
@@ -96,6 +97,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Formspree](https://img.shields.io/badge/Formspree-E3124C?style=flat-square&logo=formspree&logoColor=white)
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 #### **Bases de Datos y Análisis**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -126,6 +129,8 @@
 ![System Design](https://img.shields.io/badge/Diseño_de_Sistemas-blue?style=flat-square)
 ![Scalability](https://img.shields.io/badge/Conceptos_de_Escalabilidad-orange?style=flat-square)
 ![Caching](https://img.shields.io/badge/Estrategias_de_Caché-brightgreen?style=flat-square)
+![Modular Monolith](https://img.shields.io/badge/Monolito_Modular-blueviolet?style=flat-square)
+![Inference Optimization](https://img.shields.io/badge/Optimización_de_Inferencia-FF4F8B?style=flat-square)
 
 #### **Pruebas y Calidad**
 ![Unit Testing](https://img.shields.io/badge/Pruebas_Unitarias-brightgreen?style=flat-square)
@@ -149,6 +154,8 @@
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Secrets](https://img.shields.io/badge/Variables_de_Entorno_y_Secretos-blueviolet?style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Pip](https://img.shields.io/badge/Pip-3775A9?style=flat-square&logo=pypi&logoColor=white)
 
 #### **Prácticas de Ingeniería**
 ![Documentation](https://img.shields.io/badge/Documentación_Técnica-blue?style=flat-square)
@@ -171,6 +178,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-8CAAE6?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
 #### **Sistemas Operativos**
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -184,6 +193,8 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Metal MPS](https://img.shields.io/badge/Metal_MPS-000000?style=flat-square&logo=apple&logoColor=white)
 
 #### **Diseño y Creatividad**
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
@@ -191,6 +202,8 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
+![Generative AI](https://img.shields.io/badge/IA_Generativa-00A67E?style=flat-square&logo=openai&logoColor=white)
+![Text-to-Speech](https://img.shields.io/badge/Síntesis_de_Voz-5A29E4?style=flat-square)
 
 ---
 
