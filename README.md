@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer specializing in iOS and Modern Web technologies.</strong><br>
-  Building elegant, high-performance solutions with a focus on user experience and clean architecture.
+  <strong>Information Technology and Systems Engineer with a comprehensive vision of the corporate technological ecosystem.</strong><br>
+  I possess a solid foundation in software development, infrastructure management, and data analysis. I define myself as a versatile and self-taught professional, capable of quickly adapting to new tools and methodologies according to project needs. I am looking for a position where I can provide efficient technical solutions while continuing to expand my skills in emerging technologies and strategic IT management.
 </p>
 
 <p align="center">

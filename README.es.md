@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <strong>Ingeniero de Software especializado en iOS y tecnologías Web modernas.</strong><br>
-  Construyendo soluciones elegantes y de alto rendimiento con un enfoque en la experiencia del usuario y arquitectura limpia.
+  <strong>Ingeniero en Sistemas y Tecnologías de la Información con visión integral del ecosistema tecnológico corporativo.</strong><br>
+  Cuento con una base sólida en desarrollo de software, gestión de infraestructura y análisis de datos. Me defino como un profesional polivalente y autodidacta, capaz de adaptarme rápidamente a nuevas herramientas y metodologías según las necesidades del proyecto. Busco una posición donde pueda aportar soluciones técnicas eficientes mientras continúo expandiendo mis competencias en tecnologías emergentes y gestión estratégica de TI.
 </p>
 
 <p align="center">
