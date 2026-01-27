@@ -78,6 +78,8 @@
 ![Accessibility](https://img.shields.io/badge/Accesibilidad_(a11y)-blue?style=flat-square)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-F0AD4E?style=flat-square&logo=moodle&logoColor=black)
 ![Gradio](https://img.shields.io/badge/Gradio-FD6F00?style=flat-square&logo=gradio&logoColor=white)
 
@@ -172,6 +174,7 @@
 ![zsh](https://img.shields.io/badge/zsh-000000?style=flat-square&logo=zsh&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WP-CLI](https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![OOP](https://img.shields.io/badge/POO-Programación-blue?style=flat-square)
 ![Regex](https://img.shields.io/badge/Regex-222222?style=flat-square&logo=regex&logoColor=white)
